@@ -1,5 +1,5 @@
 [package]
-name = "emmett-crypto"
+name = "emmett_crypto"
 version = "0.3.0"
 description = "Emmett framework cryptographic library"
 authors = ["Giovanni Barillari <gi0baro@d4net.org>"]
