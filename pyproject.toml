@@ -1,5 +1,5 @@
 [project]
-name = "emmett-crypto"
+name = "emmett_crypto"
 repository = "https://github.com/emmett-framework/crypto"
 
 [build-system]
